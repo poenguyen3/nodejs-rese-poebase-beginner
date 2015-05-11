@@ -1,4 +1,23 @@
 {
-  "name": "poebase-beginner"
-
+  "license": "BSD-3-Clause",
+  "name": "poebase-beginner",
+  "version": "0.0.2-beta.0",
+  "description": "My nodejs research. Getting ready for my nodejs apps. Go to Scalibility and the RET (Real-time)",
+  "keywords": ["poe", "research", "ready for nodejs"],
+  "homepage": "http://poeboxes.com/research/nodejs/beginner",
+  "bugs": {
+    "url": "https://github.com/poenguyen3/nodejs-rese-poebase-beginner",
+    "email": "poenguyen.3@gmail.com"
+  },
+  "author": {
+    "name": "Poe Nguyen",
+    "email": "poenguyen.3@gmail.com",
+    "url": "http://poeboxes.com"
+  },
+  "main": "poebase-beginner",
+  "scripts": {"start": "node server.js"},
+  "respository": {
+    "type": "git",
+    "url": "https://github.com/poenguyen3/nodejs-rese-poebase-beginner"
+  }
 }
